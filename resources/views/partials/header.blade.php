@@ -31,5 +31,7 @@
         </div>
     </div>
 
-    <div id="jumbo"></div>
+    <div id="jumbo">
+        
+    </div>
 </header>

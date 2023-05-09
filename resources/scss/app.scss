@@ -3,8 +3,6 @@
 header {
     height: 450px;
 
-    background-color: blue;
-
     #navbar{
         height: 30%;
 
@@ -47,6 +45,8 @@ header {
     }
 
     #jumbo{
-
+        background-image: url('../img/jumbotron.jpg');
+        // background-size: cover;
+        // background-position: center;
     }
 }
